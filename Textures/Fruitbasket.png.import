@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bloohfcix75yw"
-path="res://.godot/imported/desk.png-03d1599c1fe8fc7608e9aae10eb8e1ee.ctex"
+uid="uid://1cbkwojfqptj"
+path="res://.godot/imported/Fruitbasket.png-830c04ef2c401a07f36f9d979e21facb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://desk.png"
-dest_files=["res://.godot/imported/desk.png-03d1599c1fe8fc7608e9aae10eb8e1ee.ctex"]
+source_file="res://Textures/Fruitbasket.png"
+dest_files=["res://.godot/imported/Fruitbasket.png-830c04ef2c401a07f36f9d979e21facb.ctex"]
 
 [params]
 

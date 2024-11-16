@@ -1,11 +1,11 @@
 [gd_scene load_steps=11 format=3 uid="uid://dfci8c6lgfosr"]
 
 [ext_resource type="Script" path="res://main_menu.gd" id="1_0j0q6"]
-[ext_resource type="Texture2D" uid="uid://b7vcxxvc8kyag" path="res://background.png" id="1_ob71n"]
-[ext_resource type="Texture2D" uid="uid://d1ercxm84dxcs" path="res://background2.png" id="3_jymuf"]
-[ext_resource type="Texture2D" uid="uid://cxxwrj616no6d" path="res://Title.png" id="4_6xhy1"]
-[ext_resource type="Texture2D" uid="uid://bhi2u5orqujpg" path="res://background3.png" id="4_6744u"]
-[ext_resource type="Texture2D" uid="uid://cm6345kjv754c" path="res://background4.png" id="5_1x1v1"]
+[ext_resource type="Texture2D" uid="uid://b7vcxxvc8kyag" path="res://Textures/background.png" id="1_ob71n"]
+[ext_resource type="Texture2D" uid="uid://d1ercxm84dxcs" path="res://Textures/background2.png" id="3_jymuf"]
+[ext_resource type="Texture2D" uid="uid://cxxwrj616no6d" path="res://Textures/Title.png" id="4_6xhy1"]
+[ext_resource type="Texture2D" uid="uid://bhi2u5orqujpg" path="res://Textures/background3.png" id="4_6744u"]
+[ext_resource type="Texture2D" uid="uid://cm6345kjv754c" path="res://Textures/background4.png" id="5_1x1v1"]
 
 [sub_resource type="Animation" id="Animation_2d04x"]
 resource_name = "Fade out"

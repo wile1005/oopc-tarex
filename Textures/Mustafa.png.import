@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4ge0h8vodai"
-path="res://.godot/imported/Mustafa.png-6eaac7bd50a34dd3be33fe93d1921aed.ctex"
+path="res://.godot/imported/Mustafa.png-37b9322f3496d0fd403284a780c6c240.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mustafa.png"
-dest_files=["res://.godot/imported/Mustafa.png-6eaac7bd50a34dd3be33fe93d1921aed.ctex"]
+source_file="res://Textures/Mustafa.png"
+dest_files=["res://.godot/imported/Mustafa.png-37b9322f3496d0fd403284a780c6c240.ctex"]
 
 [params]
 
